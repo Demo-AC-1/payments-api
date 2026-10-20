@@ -1,0 +1,5 @@
+# Production deployment targets for payments-api
+hosts:
+  - payments-api01.acme.example
+  - payments-api02.acme.example
+image: registry.acme.example/payments/payments-api
